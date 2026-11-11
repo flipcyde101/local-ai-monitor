@@ -1,0 +1,10 @@
+# build output and local runtime state
+bin/
+*.exe
+*.ini
+diag.txt
+# signing material stays local
+cert/
+*.cer
+*.pfx
+*.p12
